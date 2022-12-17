@@ -1,1 +1,1 @@
-Web code for Odyssey-19 for Spring-19
+Web code for Odyssey-19 developed in Spring-19
